@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# my comment
+
+# Show all listening sockets with PID/Program name
+netstat -lp
